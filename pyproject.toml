@@ -5,7 +5,7 @@ description = "Download all the dank memes from an Instagram post"
 authors = ["Michal Nawrocki <michal.m.nawrocki@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "3.5"
+python = "^3.5"
 
 [tool.poetry.dev-dependencies]
 
